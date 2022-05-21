@@ -2,7 +2,7 @@
   "name": "compound-dapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://alonilk2.github.io/compound-dapp",
+  "homepage": "https://alonilk2.github.io/Compound-Protocol-Dapp/",
   "dependencies": {
     "@headlessui/react": "^1.4.3",
     "@heroicons/react": "^1.0.5",
